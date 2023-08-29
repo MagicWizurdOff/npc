@@ -1,0 +1,4 @@
+name: NPC
+version: '${project.version}'
+main: dev.npc.Main
+api-version: '1.19'
